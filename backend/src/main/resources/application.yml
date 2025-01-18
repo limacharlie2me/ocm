@@ -1,0 +1,3 @@
+
+
+# Application properties support only strings as values, whereas Application YAML supports multiple data types, including numbers, booleans, arrays, and objects. This makes YAML more flexible and suitable for applications with complex configuration requirements.
